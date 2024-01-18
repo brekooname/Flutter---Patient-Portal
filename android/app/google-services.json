@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387714823947",
+    "project_id": "soul-99ca6",
+    "storage_bucket": "soul-99ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387714823947:android:17794b0b17de87a2d0d40e",
+        "android_client_info": {
+          "package_name": "appbrewer.soul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387714823947-ip0eiaqrprrng2rp2dt5niv3c9c86foe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkTtBg3zuy94BOr9mB78gBcvuHbKfSDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387714823947-ip0eiaqrprrng2rp2dt5niv3c9c86foe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
