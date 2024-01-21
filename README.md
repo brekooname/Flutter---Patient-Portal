@@ -6,35 +6,49 @@ Welcome to the Patient Portal, an intuitive and user-friendly mobile app designe
 
 ### 🚪 **Login & Sign Up**
 Secure and easy access to your health information.
-- ![Login](screenshots/login.png) 
-- ![Sign Up](screenshots/sign_up.png)
+<div>
+  <img src="screenshots/login.png" alt="Login" width="150" />
+  <img src="screenshots/sign_up.png" alt="Sign Up" width="150" />
+</div>
 
 ### 🏠 **Home**
 Your health dashboard at a glance.
-- ![Home](screenshots/home.png)
+<div>
+  <img src="screenshots/home.png" alt="Home" width="150" />
+</div>
 
 ### 📅 **Appointments**
 Manage your healthcare appointments with ease.
-- ![Upcoming Appointments](screenshots/upcoming_appointments.png)
-- ![Past Appointments](screenshots/past_appointments.png)
+<div>
+  <img src="screenshots/upcoming_appointments.png" alt="Upcoming Appointments" width="150" />
+  <img src="screenshots/past_appointments.png" alt="Past Appointments" width="150" />
+</div>
 
 ### 💊 **Medication & Health Tracking**
 Stay on top of your medications and vitals.
-- ![Medication](screenshots/medication.png)
-- ![Vitals](screenshots/vitals.png)
+<div>
+  <img src="screenshots/medication.png" alt="Medication" width="150" />
+  <img src="screenshots/vitals.png" alt="Vitals" width="150" />
+</div>
 
 ### 📈 **Lab Results & Radiology Reports**
 Access your medical reports anytime, anywhere.
-- ![Lab Results](screenshots/lab_results.png)
-- ![Radiology Reports](screenshots/rad_reports.png)
+<div>
+  <img src="screenshots/lab_results.png" alt="Lab Results" width="150" />
+  <img src="screenshots/rad_reports.png" alt="Radiology Reports" width="150" />
+</div>
 
 ### 👨‍⚕️ **My Doctors**
 Keep track of your healthcare providers.
-- ![My Doctors](screenshots/my_doctors.png)
+<div>
+  <img src="screenshots/my_doctors.png" alt="My Doctors" width="150" />
+</div>
 
 ### 📱 **Mobile Verification**
 Secure your account with mobile verification.
-- ![Verification](screenshots/verification.png)
+<div>
+  <img src="screenshots/verification.png" alt="Verification" width="150" />
+</div>
 
 ## 🚀 Getting Started
 
@@ -44,6 +58,7 @@ To start using the Patient Portal app:
 git clone https://github.com/WasimAnabtawi/patient-portal.git
 cd patient-portal
 flutter run
+
 
 🧰 Technologies Used
 Flutter: For a seamless cross-platform user experience.
