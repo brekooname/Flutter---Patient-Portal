@@ -74,6 +74,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Project Link: https://github.com/WasimAnabtawi/patient-portal
 
 <p align="center">
-  &copy; [Current Year] by [Your Name or Organization]. All Rights Reserved.
+  &copy; [2024] by [Wes]. All Rights Reserved.
 </p>
  
