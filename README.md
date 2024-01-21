@@ -54,7 +54,7 @@ Secure your account with mobile verification.
 
 To start using the Patient Portal app:
 
-```bash
+ bash
 git clone https://github.com/WasimAnabtawi/patient-portal.git
 cd patient-portal
 flutter run
@@ -76,4 +76,4 @@ Project Link: https://github.com/WasimAnabtawi/patient-portal
 <p align="center">
   &copy; [Current Year] by [Your Name or Organization]. All Rights Reserved.
 </p>
-```
+ 
