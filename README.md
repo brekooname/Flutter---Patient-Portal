@@ -8,7 +8,7 @@ Welcome to the Patient Portal, an intuitive and user-friendly mobile app designe
 Secure and easy access to your health information.
 <div>
   <img src="screenshots/login.png" alt="Login" width="150" />
-  <img src="screenshots/sign_up.png" alt="Sign Up" width="150" />
+  <img src="screenshots/sign up.png" alt="Sign Up" width="150" />
 </div>
 
 ### 🏠 **Home**
@@ -20,8 +20,8 @@ Your health dashboard at a glance.
 ### 📅 **Appointments**
 Manage your healthcare appointments with ease.
 <div>
-  <img src="screenshots/upcoming_appointments.png" alt="Upcoming Appointments" width="150" />
-  <img src="screenshots/past_appointments.png" alt="Past Appointments" width="150" />
+  <img src="screenshots/upcoming appointments.png" alt="Upcoming Appointments" width="150" />
+  <img src="screenshots/past appoitnments.png" alt="Past Appointments" width="150" />
 </div>
 
 ### 💊 **Medication & Health Tracking**
@@ -34,14 +34,14 @@ Stay on top of your medications and vitals.
 ### 📈 **Lab Results & Radiology Reports**
 Access your medical reports anytime, anywhere.
 <div>
-  <img src="screenshots/lab_results.png" alt="Lab Results" width="150" />
-  <img src="screenshots/rad_reports.png" alt="Radiology Reports" width="150" />
+  <img src="screenshots/lab results.png" alt="Lab Results" width="150" />
+  <img src="screenshots/rad reports.png" alt="Radiology Reports" width="150" />
 </div>
 
 ### 👨‍⚕️ **My Doctors**
 Keep track of your healthcare providers.
 <div>
-  <img src="screenshots/my_doctors.png" alt="My Doctors" width="150" />
+  <img src="screenshots/my doctors.png" alt="My Doctors" width="150" />
 </div>
 
 ### 📱 **Mobile Verification**
